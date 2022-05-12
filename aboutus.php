@@ -11,7 +11,7 @@
               <h1>Amazing tour management.</h1>
             </div>
             <div class="intro_text">
-              <p>Our aim is to provide clients with every kind of viable programs Nepal can possibly offer. Our team of expert travel planners is always there to answer your specific question with absolutely authentic information and help you design your or your clients’ trips that perfectly suit the interest and budget.</p>
+              <p>Maecenas sollicitudin tincidunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scele risque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperdiet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus.</p>
             </div>
            <!--  <div class="button intro_button"><a href="#">read more</a></div> -->
           </div>
@@ -37,7 +37,7 @@
         <div class="col">
           <div class="section_title text-center">
             <div>OLOC</div>
-            <h1>WHAT WE OFFER</h1>
+            <h1>What we offer</h1>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Planned destinations</h3></div>
               <div class="offer_text">
-               
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -64,7 +64,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Proper dining facility</h3></div>
               <div class="offer_text">
-               
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -78,7 +78,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Camp fire</h3></div>
               <div class="offer_text">
-               
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -92,7 +92,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Outdoor sports</h3></div>
               <div class="offer_text">
-               
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -106,7 +106,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Luxury Travel</h3></div>
               <div class="offer_text">
-                
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -120,7 +120,7 @@
             <div class="offer_content text-center">
               <div class="offer_title"><h3>Hospitality</h3></div>
               <div class="offer_text">
-                
+                <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices.</p>
               </div>
             <!--   <div class="offer_button"><a href="#">discover</a></div> -->
             </div>
@@ -147,11 +147,10 @@
               <h1>Discover OLOC services</h1>
             </div>
             <div class="discover_highlight">
-              <p>We’ve been there. We’ve done that. Now, we organize it for you.</p>
+              <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur.</p>
             </div>
             <div class="discover_text">
-              <p>OLOC Travel Group is dedicated to making your Dream Vacation a reality. Created by Travelers for Travelers, our Personalized Vacation Packages will meet and exceed your expectations. Combining our broad personal Travel Experience with years of Expertise in Travel Management and Top Notch Service, we create a unique Travel Experience for you.
-                 Contact us and realize your Dream Journey</p>
+              <p>Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis nulla, id laoreet neque scelerisque at. Quisque eget sem non ligula consectetur ultrices in quis augue. Donec imperd iet leo eget tortor dictum, eget varius eros sagittis. Curabitur tempor dignissim massa ut faucibus sollicitudin tinci dunt maximus. Morbi tempus malesuada erat sed pellentesque. Donec pharetra mattis.</p>
             </div>
             <div class="button discover_button"><a href="#">discover</a></div>
           </div>
